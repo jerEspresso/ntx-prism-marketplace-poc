@@ -42,4 +42,4 @@ Steps:
 
 3. Present the result as a compact table sorted by folder. Flag anything
    noteworthy in one line: worktrees with no upstream, dirty worktrees, and
-   any that are behind (can be fast-forwarded via `/worktree:sync`).
+   any that are behind (can be fast-forwarded via `/wt:sync`).

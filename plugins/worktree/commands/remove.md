@@ -4,7 +4,7 @@ argument-hint: <folder-name>
 allowed-tools: Bash, PowerShell, Read
 ---
 
-Remove a worktree (created by `/worktree:clone` or `/worktree:add`) and clean up.
+Remove a worktree (created by `/wt:clone` or `/wt:add`) and clean up.
 
 Arguments:
 - `$1` = worktree folder name to remove (required)

@@ -21,7 +21,7 @@ Steps:
    ```
 
 3. For each worktree, compute upstream + ahead/behind + dirty (same logic as
-   `/worktree:status`).
+   `/wt:status`).
 
 4. Classify and act:
    - **behind > 0, ahead = 0, clean** → safe to fast-forward. Do it:

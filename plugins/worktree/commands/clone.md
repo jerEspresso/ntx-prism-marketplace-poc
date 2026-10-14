@@ -65,5 +65,5 @@ Steps — run them in order, stopping and reporting if any step fails:
 
 9. Report the result: the container path, the default-branch worktree path
    (`$dir\<default>`), and remind the user they can add more parallel checkouts
-   with `/worktree:add`. Tell them to point each Claude Code / VS Code session at a
+   with `/wt:add`. Tell them to point each Claude Code / VS Code session at a
    worktree subfolder, never the container root.
