@@ -1,0 +1,8 @@
+{
+  "name": "worktree",
+  "description": "Work with bare + worktree git repos: clone, convert, add, branch, status, sync, remove, and prune worktrees",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jeremy Xiao"
+  }
+}

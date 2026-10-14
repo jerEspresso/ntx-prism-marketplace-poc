@@ -1,0 +1,14 @@
+{
+  "name": "ntx-prism-marketplace-poc",
+  "description": "Claude Code plugins for NTX Prism (proof of concept)",
+  "owner": {
+    "name": "Jeremy Xiao"
+  },
+  "plugins": [
+    {
+      "name": "worktree",
+      "source": "./plugins/worktree",
+      "description": "Work with bare + worktree git repos: clone, convert, add, branch, status, sync, remove, and prune worktrees"
+    }
+  ]
+}
